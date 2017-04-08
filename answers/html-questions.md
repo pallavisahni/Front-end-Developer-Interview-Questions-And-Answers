@@ -17,7 +17,7 @@ We can enforce browsers to use standards mode with a `<!DOCTYPE html>` tag.
 
 #### What's the difference between HTML and XHTML?
 
-*Not answered yet*
+The Extensible Hypertext Markup Language, or XHTML, is a markup language that has the same depth of expression as HTML, but also conforms to XML syntax. XHTML is "the modern version of HTML4. 
 
 #### Are there any problems with serving pages as `application/xhtml+xml`?
 
