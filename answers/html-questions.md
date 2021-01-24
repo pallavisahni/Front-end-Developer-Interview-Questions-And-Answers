@@ -17,7 +17,14 @@ We can enforce browsers to use standards mode with a `<!DOCTYPE html>` tag.
 
 #### What's the difference between HTML and XHTML?
 
-*Not answered yet*
+HTML or HyperText Markup Language is the main markup language for creating web pages and other information that can be displayed in a web browser.
+XHTML (Extensible HyperText Markup Language) is a family of XML markup languages that mirror or extend versions of the widely used Hypertext Markup Language (HTML), the language in which web pages are written.
+Filename extension	HTMl => .html, .htm	
+                    XHTML=> .xhtml, .xht, .xml, .html, .htm
+Type of format	    HTML => Document file format	
+                    XHTML => Markup language
+Function	          HTML => Web pages are written in HTML.	
+                    XHTML=> Extended version of HTML that is stricter and XML-based.
 
 #### Are there any problems with serving pages as `application/xhtml+xml`?
 
